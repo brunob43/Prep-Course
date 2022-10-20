@@ -8,31 +8,51 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 /* Arrancaremos este ejercicio por vos: */
 #ejercicioUno {
 
+<span id="Ejercicio 1" style="display: block; position: relative; center;">Mi comida favorita es la Pizza</span>
+
 }
 
 
 /* Ejercicio 2: Posicionar el header */
 
-/* Acá va tu código */
+/* Acá va tu código */ {
 
+<div id = "Ejercicio 2" style="display: visibility: hidden;">Mi comida favorita es la Pizza</div>
 
+}
 
 /* Ejercicio 3: */
 
-/* Acá va tu código */
+/* Acá va tu código */{ 
 
+ <div id = "Ejercicio 3" style= "position: relative; top: 100px; left: 200px>
+
+}
 
 
 /* Ejercicio 4: */
 
-/* Acá va tu código */
+/* Acá va tu código */{
 
+<div id = "Ejercicio 4" style= "position: fixed; top: 0px; left: 0px>
 
+}
 
 /* Ejercicio 5: */
 
-/* Acá va tu código */
+/* Acá va tu código */{
+
+<div id="Ejercicio 5" style="display:flex;align-items:flex-start;justify-content: center; flex-direction: column;"> 
+    
+}
 
 
 
-/* Ejercicio 6. */
+
+/* Ejercicio 6. */{
+
+<div id="Ejercicio 5" style="display:flex;align-items:flex-start;justify-content: center; flex-direction: column;"> 
+<div id="elementoLecciones" class="elementos" style="aling-self: flex-start;"></div> 
+<div id="elementoSoyHenry" class="elementos" style="aling-self: flex-end;"></div> 
+
+}
